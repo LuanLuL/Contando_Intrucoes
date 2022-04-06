@@ -21,4 +21,6 @@
 <h3>Solução</h3>
 
  <div style="margin: 30px 30px 30px 30px;"><p>Tecnologia: C++</p></div>
+ 
+ <div style="margin: 30px 30px 30px 30px; font-size: 30px;"><p><b>Feito por Luan Gonçalves Santos</p><b></div>
 
