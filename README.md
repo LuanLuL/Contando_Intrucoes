@@ -20,7 +20,16 @@
 
 <h3>Solução</h3>
 
- <div style="margin: 30px 30px 30px 30px;"><p>Tecnologia: C++</p></div>
+<div style="margin: 30px 30px 30px 30px;"><p>1) - Para que a matriz possa ser alocada dinamicamente de acordo com o parâmetro N digitado pelo usuário foi se construído uma classe;</p>
+<br><code>Matriz.hpp<br>Matriz.cpp</code>
+<p>2) - ;</p>
+<p>3) - ;</p>
+<p>4) - ;</p>
+<p>5) - ;</p>
+<p>5.1) ;</p>
+<p>6) - .</p></div>
+
+<div style="margin: 30px 30px 30px 30px;"><p>Tecnologia: C++</p></div>
  
- <div style="margin: 30px 30px 30px 30px; font-size: 30px;"><p><b>Feito por Luan Gonçalves Santos</p><b></div>
+<div style="margin: 30px 30px 30px 30px; font-size: 30px;"><p><b>Feito por Luan Gonçalves Santos</p><b></div>
 
