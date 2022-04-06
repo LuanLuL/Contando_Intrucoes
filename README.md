@@ -4,7 +4,7 @@
 
 <div style="margin: 30px 30px 30px 30px;"><p>(1) revisar os conceitos de programação básica;</p><p>(2) iniciar um cenário de questionamentos para identificar se realmente estou implementando de uma forma otimizada e; </p><p>(3) iniciar uma busca em torno de boa estruturação de código</p></div>
 
-<h3>Problemática</h3>
+<h2>Problemática</h2>
 <p>Elabore um pequeno programa que utilize uma matriz N x N, com o valor de N fornecido como entrada do programa, para executar a seguinte operação:</p>
 
 <div style="margin: 30px 30px 30px 30px;"><p>1) - Preenche a matriz N x N com números inteiros aleatórios de 0 a 99;</p>
@@ -18,7 +18,7 @@
 
 <img src="img/Exemplo.png"/>
 
-<h3>Solução</h3>
+<h2>Solução</h2>
 
 <div style="margin: 30px 30px 30px 30px;"><p>Tecnologia: C++</p></div>
 
