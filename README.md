@@ -22,7 +22,7 @@
 
 <div style="margin: 30px 30px 30px 30px;"><p>Tecnologia: C++</p></div>
 
-<p>É fato que para solucionar a problemática introduzida neste projeto existem diversas possibilidades. Todavia, foi se escolhida uma estratégia simples que não requisite tempo gasto no estudo de métodos com grau de dificuldade elevado. Nesse contexto, de acordo com as regras, a lógica consiste em tratar um por um dos possíveis caminhos para determinado elemento da matriz.</p> 
+<p>É fato que para solucionar a problemática introduzida neste projeto existem diversas possibilidades. Todavia, foi se escolhida uma estratégia simples visto que não há necessidade da implementação de métodos com grau de dificuldade elevado. Nesse contexto, de acordo com as regras, a lógica consiste em tratar um por um dos possíveis caminhos para determinado elemento da matriz.</p> 
 
 <p>Para isso, é preciso compreender que um determinado elemento <i>V</i> pode ser acessador pelos paramentros <i>i</i> e <i>j</i>, bem como seus vizinhos:</p>
 
