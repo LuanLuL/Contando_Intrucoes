@@ -20,5 +20,5 @@
 
 <h3>Solução</h3>
 
-#### Tecnologia: C++
+ <div style="margin: 30px 30px 30px 30px;"><p>Tecnologia: C++</p></div>
 
