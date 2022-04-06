@@ -30,7 +30,7 @@
 
 <p>Além disso, é importante enteder que em certas circunstâncias não será possível dar continuidade no caminho por todas as direções estabeleciadas. Isso ocorre pois a matriz possuí seus limites, e que não devem ser ultrapassados em nenhuma condição. Nessa situação, o alogritimo é capaz de caracterizar certa posição <i>i-j</i> como Canto, Borda e/ou Meio assimilando somente caminhos no interior dos limites da matriz.</p>
 
-<p>Tendo isso em mente, o algoritimo busca comparar os valores vizinhos uns com os outros a fim de verificar o póximo maior valor encontrado. Após encontrar a direção em que o caminho se mantém, o elemento <i>V</i> é modificado com a intenção de evitar comque o programa dê voltas e repita caminhos já percorridos. Desse modo, a função que nos retorna o caminho se torna bem estruturada, podendo mostrar a soma total dos valores contidos no caminho percorrido.</p>
+<p>Tendo isso em mente, o algoritimo busca comparar os valores vizinhos uns com os outros a fim de verificar o póximo maior valor encontrado. Após estabelecer a direção em que o caminho se mantém, o elemento <i>V</i> é modificado com a intenção de evitar comque o programa dê voltas e repita caminhos já percorridos. Desse modo, a função que nos retorna o caminho se torna bem estruturada, podendo mostrar a soma total dos valores contidos no caminho percorrido.</p>
  
 <div style="margin: 30px 30px 30px 30px; font-size: 30px;"><p><b>Feito por Luan Gonçalves Santos</p><b></div>
 
