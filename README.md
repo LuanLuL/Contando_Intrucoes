@@ -19,9 +19,12 @@
 <img src="img/Exemplo.png"/>
 
 <h3>Solução</h3>
-
+	Segundo a problemática introduzida, foi escolhida a estratégia mais simples em que se possuía a certeza de êxito na solução. Nesse contexto, segundo as regras, a lógica consiste em tratar isoladamente cada endereço percorrido no caminho. Para isso, 
 <div style="margin: 30px 30px 30px 30px;"><p>1) - Para que a matriz possa ser alocada dinamicamente de acordo com o parâmetro N digitado pelo usuário foi se construído uma classe;</p>
-<br><code>Matriz.hpp<br>Matriz.cpp</code>
+<code>
+<p>Matriz.hpp</p>
+<p>Matriz.cpp</p>
+</code>
 <p>2) - ;</p>
 <p>3) - ;</p>
 <p>4) - ;</p>
