@@ -19,7 +19,7 @@
 <img src="img/Exemplo.png"/>
 
 <h3>Solução</h3>
-	Segundo a problemática introduzida, foi escolhida a estratégia mais simples em que se possuía a certeza de êxito na solução. Nesse contexto, segundo as regras, a lógica consiste em tratar isoladamente cada endereço percorrido no caminho. Para isso, 
+<p>É fato que para solucionar a problemática introduzida neste projeto existem diversar possibilidades. Todavia, foi se escolhida uma estratégia simples que não requisite tempo gasto no estudo de métodos com grau de dificuldade elevado. Nesse contexto, de acordo com as regras, a lógica consiste em tratar um por um dos possíveis caminhos para determinado elemento da matriz. Para isso, é preciso compreender que um determinado elemento <i>V</i> pode ser acessador pelos paramentros <i>i</i> e <i>j</i>, bem como seus vizinhos.</p>
 <div style="margin: 30px 30px 30px 30px;"><p>1) - Para que a matriz possa ser alocada dinamicamente de acordo com o parâmetro N digitado pelo usuário foi se construído uma classe;</p>
 <code>
 <p>Matriz.hpp</p>
