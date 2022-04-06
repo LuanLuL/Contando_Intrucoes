@@ -26,7 +26,7 @@
 
 <img src="img/Exemplo2.png" style="margin-left: 200px;">
 
-<p>Tendo isso em mente, o algoritimo busca comparar oos vizinhos uns com os outros a fim de verificar </p>
+<p>Tendo isso em mente, o algoritimo busca comparar os valores vizinhos uns com os outros a fim de verificar o póximo maior valor encontrado. Após encontrar a direção em que o caminho se mantém, o elemento <i>V</i> é modificado com a intenção de evitar que o programa dê voltas e repita algum caminho já percorrido antes. Desse modo, a fução que nos retorna o caminho se torna bem estruturada, podendo mostrar a soma total dos valores contidos no caminho percorrido.</p>
 
 <div style="margin: 30px 30px 30px 30px;"><p>Tecnologia: C++</p></div>
  
