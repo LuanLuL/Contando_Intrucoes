@@ -20,5 +20,5 @@
 
 <h3>Solução</h3>
 
-#### Tecnologia: 
-- [C++](https://i.workana.com/guias/o-que-e-c/)
+#### Tecnologia: C++
+
