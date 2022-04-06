@@ -23,16 +23,6 @@
 <p>Para isso, é preciso compreender que um determinado elemento <i>V</i> pode ser acessador pelos paramentros <i>i</i> e <i>j</i>, bem como seus vizinhos:</p>
 <img src="img/Exemplo2.png" style="margin-left: 200px;">
 <div style="margin: 30px 30px 30px 30px;"><p>1) - Para que a matriz possa ser alocada dinamicamente de acordo com o parâmetro N digitado pelo usuário foi se construído uma classe;</p>
-<code>
-<p>Matriz.hpp</p>
-<p>Matriz.cpp</p>
-</code>
-<p>2) - ;</p>
-<p>3) - ;</p>
-<p>4) - ;</p>
-<p>5) - ;</p>
-<p>5.1) ;</p>
-<p>6) - .</p></div>
 
 <div style="margin: 30px 30px 30px 30px;"><p>Tecnologia: C++</p></div>
  
