@@ -16,6 +16,6 @@
 <p>6) - Andando na matriz conforme as regras acima, qual o maior caminho do início até o final, sabendo-se que a soma das posições representa o tamanho do caminho.</p
 <p>Observe um exemplo logo abaixo para uma matriz com N = 7.</p></div>
 
-<img src="https://ava.cefetmg.br/pluginfile.php/114423/mod_page/content/8/Captura%20de%20Tela%202020-08-20%20a%CC%80s%2013.35.43.png"/>
+<img src="img/Exemplo.png"/>
 
 <h3>Solução</h3>
