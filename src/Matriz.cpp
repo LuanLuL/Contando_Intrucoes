@@ -40,10 +40,10 @@ void Matriz::printMatriz(){
 }
 
 int Matriz::getPathMatriz(){
-	int i = 0;								// top: i-1
-	int j = 0;								// right: j+1
-	int total = 0;									// bottom: i+1
-	int numberN = this->numColunmAndRow - 1;		// left: j-1
+	int i = 0;				
+	int j = 0;					
+	int total = 0;				
+	int numberN = this->numColunmAndRow - 1;
 	
 	while(i!=numberN || j!=numberN){
 		total+=this->matriz[i][j];
