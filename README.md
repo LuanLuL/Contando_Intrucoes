@@ -20,15 +20,17 @@
 
 <h3>Solução</h3>
 
+<div style="margin: 30px 30px 30px 30px;"><p>Tecnologia: C++</p></div>
+
 <p>É fato que para solucionar a problemática introduzida neste projeto existem diversar possibilidades. Todavia, foi se escolhida uma estratégia simples que não requisite tempo gasto no estudo de métodos com grau de dificuldade elevado. Nesse contexto, de acordo com as regras, a lógica consiste em tratar um por um dos possíveis caminhos para determinado elemento da matriz.</p> 
 
 <p>Para isso, é preciso compreender que um determinado elemento <i>V</i> pode ser acessador pelos paramentros <i>i</i> e <i>j</i>, bem como seus vizinhos:</p>
 
 <img src="img/Exemplo2.png" style="margin-left: 200px;">
 
-<p>Tendo isso em mente, o algoritimo busca comparar os valores vizinhos uns com os outros a fim de verificar o póximo maior valor encontrado. Após encontrar a direção em que o caminho se mantém, o elemento <i>V</i> é modificado com a intenção de evitar que o programa dê voltas e repita algum caminho já percorrido antes. Desse modo, a fução que nos retorna o caminho se torna bem estruturada, podendo mostrar a soma total dos valores contidos no caminho percorrido.</p>
+<p>Além disso, é importante enteder que em certas circunstâncias não será possível dar continuidade no caminho por todas as direções estabeleciadas. Isso ocorre pois a matriz possuí seus limites, que não podem ser ultrapassados em nenhuma condição. Nessa situação, o alogritimo é capaz de caracterizar certa posição <i>i-j</i> como Canto, Borda e/ou Meio assimilando somente caminhos no interior dos limites da matriz.</p>
 
-<div style="margin: 30px 30px 30px 30px;"><p>Tecnologia: C++</p></div>
+<p>Tendo isso em mente, o algoritimo busca comparar os valores vizinhos uns com os outros a fim de verificar o póximo maior valor encontrado. Após encontrar a direção em que o caminho se mantém, o elemento <i>V</i> é modificado com a intenção de evitar que o programa dê voltas e repita algum caminho já percorrido antes. Desse modo, a fução que nos retorna o caminho se torna bem estruturada, podendo mostrar a soma total dos valores contidos no caminho percorrido.</p>
  
 <div style="margin: 30px 30px 30px 30px; font-size: 30px;"><p><b>Feito por Luan Gonçalves Santos</p><b></div>
 
